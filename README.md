@@ -3,7 +3,7 @@
 ## Stack
   * React Hook
   * Apollo
-  * Graphql
+  * GraphQL
   * Hasura
   * Tachyons
  
@@ -19,7 +19,8 @@
   Use this stack to build an app
 
 ## How to run
-In the project directory, you can run: `yarn start`
+First download or clone the project. <br/> 
+In the project directory, you need to install pacakges using `yarn install`, 
+then run: `yarn start` to start the app.
 
-Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
